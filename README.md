@@ -25,7 +25,7 @@ Project Steps:
 - reate and Compile the Model: Define the neural network and set up training.
 - Train and Evaluate the Model: Test performance based on accuracy and loss.
 - Save the Model: Export the model for future use.
-- 
+  
 This project was developed as part of the Alura Deep Learning course.
 
 
