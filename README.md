@@ -1,16 +1,25 @@
-# Fashion-MNIST-DeepLearning
-Projeto para colocar em prática deep learning: Keras
+#Fashion-MNIST-DeepLearning
+Este projeto utiliza o dataset Fashion-MNIST para aplicar conceitos de Deep Learning com a biblioteca Keras. O objetivo é criar um modelo de rede neural profunda para classificar imagens de roupas.
 
-Neste projeto, utilizaremos o dataset Fashion-MNIST, composto por imagens de diversos tipos de roupas, organizado pelo grupo de pesquisa Zalando Research. O objetivo é implementar um modelo de Redes Neurais Profundas utilizando a biblioteca TensorFlow.
+Passos do Projeto:
+Carregar Bibliotecas: Importar TensorFlow, Keras e outras ferramentas necessárias.
+Carregar e Explorar os Dados: Visualizar exemplos de imagens e verificar as categorias de roupas.
+Normalizar Imagens: Ajustar os valores dos pixels para facilitar o treinamento.
+Criar e Compilar o Modelo: Definir a rede neural e configurar o treinamento.
+Treinar e Avaliar o Modelo: Testar o desempenho com base na acurácia e perda.
+Salvar o Modelo: Exportar o modelo para futuras utilizações.
+O projeto foi desenvolvido como parte do curso de Deep Learning da Alura.
 
-O código será escrito em Python, utilizando a API de alto nível Keras, que facilita o desenvolvimento de redes neurais sobre o TensorFlow. O fluxo do projeto envolve:
+#Fashion-MNIST-DeepLearning
+This project uses the Fashion-MNIST dataset to apply Deep Learning concepts with the Keras library. The goal is to build a deep neural network model to classify clothing images.
 
-Importar as bibliotecas necessárias.
-Carregar e explorar o dataset.
-Exibir os dados em gráficos.
-Normalizar as imagens.
-Criar, compilar, treinar e salvar o modelo.
-Avaliar a acurácia e a perda do modelo.
-Durante o processo, ajustaremos o modelo conforme necessário e o testaremos para garantir um bom desempenho. Este projeto proporciona uma introdução ao mundo do Deep Learning, ajudando a compreender o funcionamento de redes neurais e como lidar com as incertezas inerentes a essa área.
+Project Steps:
+Load Libraries: Import TensorFlow, Keras, and other necessary tools.
+Load and Explore Data: View image samples and check clothing categories.
+Normalize Images: Adjust pixel values for easier training.
+Create and Compile the Model: Define the neural network and set up training.
+Train and Evaluate the Model: Test performance based on accuracy and loss.
+Save the Model: Export the model for future use.
+This project was developed as part of the Alura Deep Learning course.
 
-Este projeto foi desenvolvido como parte do curso de Deep Learning da Alura.
+
